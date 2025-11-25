@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "This is a sample test item.",
+    "label": "positive"
+  },
+  {
+    "id": 2,
+    "text": "Another example entry for testing.",
+    "label": "negative"
+  },
+  {
+    "id": 3,
+    "text": "Machine learning models need proper evaluation.",
+    "label": "neutral"
+  }
+]

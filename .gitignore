@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Kaggle datasets & outputs
+*.csv
+*.gz
+*.zip
+*.db
+
+# System files
+.DS_Store
+Thumbs.db

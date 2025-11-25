@@ -1,0 +1,5 @@
+John: Let's kick off. Today's goal is to finalize the Q1 plan.
+Samantha: I'll draft the roadmap and share by Friday. Action: Samantha to prepare the roadmap by 2025-12-05.
+Raghul: We will need budget approval. Assign to finance — Raj.
+Team: Please upload the metrics.
+Decision: Move forward with pilot in January.
